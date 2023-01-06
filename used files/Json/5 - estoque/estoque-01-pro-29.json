@@ -1,0 +1,22 @@
+{
+  "estoque": {
+    "idEstoque": 1,
+    "local": "Curitiba",
+    "responsavel": "Pedro Souza",
+    "emailUm": "d-curitiba@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 41998569632,
+    "telefoneDois": 41998569630,
+    "produtosEstoque": {
+      "idProduto": 29,
+      "nome": "Lavadora de Roupas Electrolux",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Lavadora de Roupas Electrolux LAC12 - 12Kg Cesto Inox 12 Programas de Lavagem",
+      "valorUnitario": 2059.00,
+      "quantidade": 35,
+      "possuiGarantia": true,
+      "avaliacao": 4.8,
+      "dimensoes": null
+    }
+  }
+}

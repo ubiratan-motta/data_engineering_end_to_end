@@ -1,0 +1,21 @@
+{
+  "entrega":
+  {
+    "idEntrega": 6,
+    "codigoRastreio": "B200002",
+    "statusEntrega": "Saiu do centro de distribuição",
+    "prazoEntrega": "2022-10-22",
+    "valorFrete": 9.40,
+    "empresaFrete": {
+      "idEmpresaFrete": 3,
+      "razaoSocial": "Fedex Brasil Logistica e Transporte LTDA",
+      "nomeFantasia": "Fedex",
+      "cnpj": 10970887000285,
+      "responsavel": "Frederico Lima",
+      "emailUm": "frete@fedex.com",
+      "emailois": "frederico@fedex.com",
+      "telefoneUm": 41995002315,
+      "telfoneDois": 41995462365
+    }
+  }
+}

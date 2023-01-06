@@ -1,0 +1,21 @@
+{
+  "entrega":
+  {
+    "idEntrega": 5,
+    "codigoRastreio": "B200001",
+    "statusEntrega": "Saiu do centro de distribuição",
+    "prazoEntrega": "2022-10-25",
+    "valorFrete": 8.00,
+    "empresaFrete": {
+      "idEmpresaFrete": 4,
+      "razaoSocial": "EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS",
+      "nomeFantasia": "CORREIOS",
+      "cnpj": 34028316000103,
+      "responsavel": "João da Silva",
+      "emailUm": "frete@correios.com.br",
+      "emailois": "silvajoao@correios.com.br",
+      "telefoneUm": 51999666444,
+      "telfoneDois": 51987456852
+    }
+  }
+}

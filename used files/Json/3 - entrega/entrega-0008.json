@@ -1,0 +1,21 @@
+{
+  "entrega":
+  {
+    "idEntrega": 8,
+    "codigoRastreio": "B200004",
+    "statusEntrega": "A caminho da sua cidade",
+    "prazoEntrega": "2022-10-21",
+    "valorFrete": 0.0,
+    "empresaFrete": {
+      "idEmpresaFrete": 3,
+      "razaoSocial": "Fedex Brasil Logistica e Transporte LTDA",
+      "nomeFantasia": "Fedex",
+      "cnpj": 10970887000285,
+      "responsavel": "Frederico Lima",
+      "emailUm": "frete@fedex.com",
+      "emailois": "frederico@fedex.com",
+      "telefoneUm": 41995002315,
+      "telfoneDois": 41995462365
+    }
+  }
+}

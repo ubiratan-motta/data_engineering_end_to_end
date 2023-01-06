@@ -1,0 +1,23 @@
+{
+  "estoque":
+  {
+    "idEstoque": 2,
+    "local": "Rio de Janeiro",
+    "responsavel": "João da Silva",
+    "emailUm": "cd-riodejaneiro@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 21998548962,
+    "telefoneDois": 21998548960,
+    "produtosEstoque": {
+      "idProduto": 36,
+      "nome": "Esmerilhadeira 5''",
+      "categoria": "Ferramentas",
+      "descricao": "Esmerilhadeira 5'' 900w Gws 9-125s 220v Controle Velocidade Bosch",
+      "valorUnitario": 538.26,
+      "quantidade": 100,
+      "possuiGarantia": true,
+      "avaliacao": 4.9,
+      "dimensoes": null
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "estoque":
+  {
+    "idEstoque": 2,
+    "local": "Rio de Janeiro",
+    "responsavel": "João da Silva",
+    "emailUm": "cd-riodejaneiro@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 21998548962,
+    "telefoneDois": 21998548960,
+    "produtosEstoque": {
+      "idProduto": 42,
+      "nome": "Monitor Gamer AOC G2",
+      "categoria": "Informática",
+      "descricao": "Monitor Gamer AOC G2 Hero 27” LED Widescreen - Full HD HDMI VGA IPS 144Hz 1ms",
+      "valorUnitario": 1394.10,
+      "quantidade": 154,
+      "possuiGarantia": true,
+      "avaliacao": 4.7,
+      "dimensoes": null
+    }
+  }
+}

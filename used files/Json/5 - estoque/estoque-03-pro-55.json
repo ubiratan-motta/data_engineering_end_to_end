@@ -1,0 +1,24 @@
+{
+  "estoque":
+  {
+    "idEstoque": 3,
+    "local": "São Paulo",
+    "responsavel": "Jose dos Flores",
+    "emailUm": "cd-saopaulo@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 11985478596,
+    "telefoneDois": 11985478590,
+    "produtosEstoque":
+    {
+      "idProduto": 55,
+      "nome": "Ração Premium para Cachorro",
+      "categoria": "Pet Shop",
+      "descricao": "Ração Premium para Cachorro Dog Chow ExtraLife - Adulto Carne Frango e Arroz 10,1kg",
+      "valorUnitario": 107.70,
+      "quantidade": 200,
+      "possuiGarantia": false,
+      "avaliacao": 4.8,
+      "dimensoes": null
+    }
+  }
+}

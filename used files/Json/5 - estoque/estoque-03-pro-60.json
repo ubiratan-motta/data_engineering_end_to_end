@@ -1,0 +1,24 @@
+{
+  "estoque":
+  {
+    "idEstoque": 3,
+    "local": "São Paulo",
+    "responsavel": "Jose dos Flores",
+    "emailUm": "cd-saopaulo@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 11985478596,
+    "telefoneDois": 11985478590,
+    "produtosEstoque":
+    {
+      "idProduto": 60,
+      "nome": "Relógio Feminino Champion",
+      "categoria": "Relógios",
+      "descricao": "Relógio Feminino Champion Digital Espelhado Prata Original Ch40080s",
+      "valorUnitario": 247.35,
+      "quantidade": 200,
+      "possuiGarantia": true,
+      "avaliacao": 4.7,
+      "dimensoes": null
+    }
+  }
+}

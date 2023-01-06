@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 5,
+      "nomeCompleto": "Tom Jobim",
+      "cpf": 15948723619,
+      "dataNascimento": "1927-01-25",
+      "email": "tomjobim@gmail.com",
+      "telefoneUm": 41996857489,
+      "telefoneDois": 51998745885,
+      "logradouro": {
+        "codigo": 33,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Comendador Macedo",
+      "numero": 655,
+      "bairro": "Hauer",
+      "complemento": null,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": 81570090,
+      "conta": {
+        "idConta": 5,
+        "tipoConta": "Pessoa Física",
+        "cpf": 15948723619,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1927-01-25",
+        "atividadeEconomica": null,
+        "profissao": "Cantor"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": 5,
+          "dataAdesao": "2021-12-12",
+          "valorConta": 59.00,
+          "valorCashback": 0
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": 5,
+          "nomeTitular": "Tom Jobim",
+          "numeroCartao": 9856745812563458,
+          "bandeiraCartao": "MASTERCARD",
+          "dataValidade": "2023-05-20",
+          "cpfCnpjTitular": 15948723619
+        }
+      }
+    }
+}

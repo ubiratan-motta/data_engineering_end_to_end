@@ -1,0 +1,23 @@
+{
+  "estoque":
+  {
+    "idEstoque": 2,
+    "local": "Rio de Janeiro",
+    "responsavel": "João da Silva",
+    "emailUm": "cd-riodejaneiro@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 21998548962,
+    "telefoneDois": 21998548960,
+    "produtosEstoque": {
+      "idProduto": 37,
+      "nome": "PlayStation 5",
+      "categoria": "Games",
+      "descricao": "PlayStation 5 825GB 1 Controle Branco Sony - com Horizon Forbidden West",
+      "valorUnitario": 4654.90,
+      "quantidade": 120,
+      "possuiGarantia": true,
+      "avaliacao": 4.8,
+      "dimensoes": null
+    }
+  }
+}

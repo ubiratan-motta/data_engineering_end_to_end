@@ -1,0 +1,24 @@
+{
+  "estoque":
+  {
+    "idEstoque": 3,
+    "local": "São Paulo",
+    "responsavel": "Jose dos Flores",
+    "emailUm": "cd-saopaulo@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 11985478596,
+    "telefoneDois": 11985478590,
+    "produtosEstoque":
+    {
+      "idProduto": 53,
+      "nome": "Resma de Sulfite 500 folhas A4",
+      "categoria": "Papelaria",
+      "descricao": "Resma de Sulfite 500 folhas A4 - Report",
+      "valorUnitario": 19.99,
+      "quantidade": 200,
+      "possuiGarantia": false,
+      "avaliacao": 0.0,
+      "dimensoes": null
+    }
+  }
+}

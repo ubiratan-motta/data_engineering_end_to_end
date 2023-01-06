@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 7,
+      "nomeCompleto": "Emilio Santiago",
+      "cpf": 32564197849,
+      "dataNascimento": "1946-12-06",
+      "email": "santiagoemilio@gmail.com",
+      "telefoneUm": 41985475362,
+      "telefoneDois": 41966325487,
+      "logradouro": {
+        "codigo": 4,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Cândido de Abreu",
+      "numero": 300,
+      "bairro": "Centro Civico",
+      "complemento": "Apto. 403",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": 81830325,
+      "conta": {
+        "idConta": 7,
+        "tipoConta": "Pessoa Física",
+        "cpf": 32564197849,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1946-12-06",
+        "atividadeEconomica": null,
+        "profissao": "Cantor"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": 7,
+          "dataAdesao": "2022-02-18",
+          "valorConta": 0.0,
+          "valorCashback": 231.00
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": 7,
+          "nomeTitular": "Emilio Santiago",
+          "numeroCartao": 2135549628414384,
+          "bandeiraCartao": "ELO",
+          "dataValidade": "2026-05-21",
+          "cpfCnpjTitular": 32564197849
+        }
+      }
+    }
+}

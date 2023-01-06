@@ -1,0 +1,24 @@
+{
+  "estoque":
+  {
+    "idEstoque": 3,
+    "local": "São Paulo",
+    "responsavel": "Jose dos Flores",
+    "emailUm": "cd-saopaulo@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 11985478596,
+    "telefoneDois": 11985478590,
+    "produtosEstoque":
+    {
+      "idProduto": 58,
+      "nome": "Smatrwach Relógio Digital",
+      "categoria": "Relógios",
+      "descricao": "Smatrwach Relógio Digital D20 Original Masculino E Feminino - 01Smart",
+      "valorUnitario": 77.31,
+      "quantidade": 200,
+      "possuiGarantia": true,
+      "avaliacao": 3.9,
+      "dimensoes": null
+    }
+  }
+}

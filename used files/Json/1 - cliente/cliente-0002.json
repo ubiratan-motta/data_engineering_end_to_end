@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 2,
+      "nomeCompleto": "Vera Cristina Cordeiro da Motta",
+      "cpf": 98765432198,
+      "dataNascimento": "1995-05-20",
+      "email": "veracristina@gmail.com",
+      "telefoneUm": 41999999999,
+      "telefoneDois": null,
+      "logradouro": {
+        "codigo": 4,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Sete de Setembro",
+      "numero": 255,
+      "bairro": "Centro",
+      "complemento": null,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": 80810060,
+      "conta": {
+        "idConta": 2,
+        "tipoConta": "Pessoa Física",
+        "cpf": 98765432198,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1995-05-20",
+        "atividadeEconomica": null,
+        "profissao": "Analista RH"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": 2,
+          "dataAdesao": "2021-09-03\n",
+          "valorConta": 190.00,
+          "valorCashback": 0
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": 2,
+          "nomeTitular": "Vera Cristina Cordeiro da Motta",
+          "numeroCartao": 3216549879874568,
+          "bandeiraCartao": "VISA",
+          "dataValidade": "2025-07-19",
+          "cpfCnpjTitular": 98765432198
+        }
+      }
+    }
+}

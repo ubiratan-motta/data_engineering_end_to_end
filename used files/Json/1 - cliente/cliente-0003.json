@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 3,
+      "nomeCompleto": "Henry Ubiratan Cordeiro da Motta",
+      "cpf": 12378945665,
+      "dataNascimento": "2005-11-26",
+      "email": "henrymotta@gmail.com",
+      "telefoneUm": 41998745632,
+      "telefoneDois": null,
+      "logradouro": {
+        "codigo": 2,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Prudente de Moraes",
+      "numero": 3596,
+      "bairro": "Merces",
+      "complemento": null,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": 81935445,
+      "conta": {
+        "idConta": 3,
+        "tipoConta": "Pessoa Física",
+        "cpf": 12378945665,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "2005-11-26",
+        "atividadeEconomica": null,
+        "profissao": "Estudante"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": 3,
+          "dataAdesao": "2021-10-19",
+          "valorConta": 1230.58,
+          "valorCashback": 0
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": 3,
+          "nomeTitular": "Henry Ubiratan Cordeiro da Motta",
+          "numeroCartao": 1478523698521478,
+          "bandeiraCartao": "MASTERCARD",
+          "dataValidade": "2024-08-21",
+          "cpfCnpjTitular": 12378945665
+        }
+      }
+    }
+}

@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 4,
+      "nomeCompleto": "Milton Nascimento",
+      "cpf": 32165498745,
+      "dataNascimento": "1942-10-26",
+      "email": "miltonnascimento@gmail.com",
+      "telefoneUm": 41996857412,
+      "telefoneDois": null,
+      "logradouro": {
+        "codigo": 4,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Marechal Floriano Peixoto",
+      "numero": 1500,
+      "bairro": "Hauer",
+      "complemento": null,
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": 81570090,
+      "conta": {
+        "idConta": 4,
+        "tipoConta": "Pessoa Física",
+        "cpf": 32165498745,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1942-10-26",
+        "atividadeEconomica": null,
+        "profissao": "Cantor"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": 4,
+          "dataAdesao": "2021-11-29",
+          "valorConta": 98.42,
+          "valorCashback": 0
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": 4,
+          "nomeTitular": "Milton Nascimento",
+          "numeroCartao": 3698521478954123,
+          "bandeiraCartao": "MASTERCARD",
+          "dataValidade": "2028-12-10",
+          "cpfCnpjTitular": 32165498745
+        }
+      }
+    }
+}

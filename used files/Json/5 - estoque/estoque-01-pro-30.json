@@ -1,0 +1,23 @@
+{
+  "estoque":
+  {
+    "idEstoque": 1,
+    "local": "Curitiba",
+    "responsavel": "Pedro Souza",
+    "emailUm": "d-curitiba@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 41998569632,
+    "telefoneDois": 41998569630,
+    "produtosEstoque": {
+      "idProduto": 30,
+      "nome": "Fogão de Piso 4 Bocas",
+      "categoria": "Eletrodomésticos",
+      "descricao": "FogAo de Piso 4 Bocas Esmaltec Bali Acendimento Manual 0104002103",
+      "valorUnitario": 479.00,
+      "quantidade": 40,
+      "possuiGarantia": true,
+      "avaliacao": 4.6,
+      "dimensoes": null
+    }
+  }
+}

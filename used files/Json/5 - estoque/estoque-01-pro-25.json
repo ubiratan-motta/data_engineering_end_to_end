@@ -1,0 +1,22 @@
+{
+  "estoque": {
+    "idEstoque": 1,
+    "local": "Curitiba",
+    "responsavel": "Pedro Souza",
+    "emailUm": "d-curitiba@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 41998569632,
+    "telefoneDois": 41998569630,
+    "produtosEstoque": {
+      "idProduto": 25,
+      "nome": "Espelho Redondo Decorativo",
+      "categoria": "Decoração",
+      "descricao": "Espelho Redondo Decorativo Suspenso Com Alça 50cm + Suporte Marrom Alça Caramelo - ORNATO",
+      "valorUnitario": 109.25,
+      "quantidade": 16,
+      "possuiGarantia": false,
+      "avaliacao": 4.7,
+      "dimensoes": null
+    }
+  }
+}

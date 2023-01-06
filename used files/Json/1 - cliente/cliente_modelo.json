@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 0,
+      "nomeCompleto": "string",
+      "cpf": 0,
+      "dataNascimento": "1999-12-31",
+      "email": "string",
+      "telefoneUm": 0,
+      "telefoneDois": 0,
+      "logradouro": {
+        "codigo": 0,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "string",
+      "numero": 0,
+      "bairro": "string",
+      "complemento": "string",
+      "cidade": "string",
+      "estado": "string",
+      "cep": 0,
+      "conta": {
+        "idConta": 0,
+        "tipoConta": "string",
+        "cpf": 0,
+        "cnpj": 0,
+        "fundacao": "1999-12-31",
+        "aniversario": "1999-12-31",
+        "atividadeEconomica": "string",
+        "profissao": "string"
+      },
+      "formasPagamento":{
+        "pix": "string",
+        "boletoBancario": "string",
+        "transferenciaBancaria": "string",
+        "carteiraDigital": {
+          "idCarteiraDigital": 0,
+          "dataAdesao": "1999-12-31",
+          "valorConta": 0,
+          "valorCashback": 0
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": 0,
+          "nomeTitular": "string",
+          "numeroCartao": 0,
+          "bandeiraCartao": "string",
+          "dataValidade": "1999-12-31",
+          "cpfCnpjTitular": 0,
+        }
+      }
+    }
+}

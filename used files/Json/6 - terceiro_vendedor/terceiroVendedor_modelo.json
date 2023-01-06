@@ -1,0 +1,27 @@
+{
+  "terceiroVendedor": {
+    "idTerceiroVendedor": 0,
+    "razaoSocial": "string",
+    "nomeFantasia": "string",
+    "cnpj": 0,
+    "enderecoFornecedor": "string",
+    "responsavel": "string",
+    "emailUm": "string",
+    "emailDois": "string",
+    "telefoneUm": 0,
+    "telefoneDois": 0,
+    "produtoTerceiroVendedor": [{
+      "idProduto": 0,
+      "nome": "string",
+      "categoria": "string",
+      "descricao": "string",
+      "valorUnitario": "string",
+      "quantidade": 0,
+      "possuiGarantia": true,
+      "avaliacao": 0,
+      "dimensaoes": "1x2x3"
+
+      }
+    ]
+  }
+}

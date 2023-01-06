@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 6,
+      "nomeCompleto": "Edson Arantes do Nascimento",
+      "cpf": 23651948718,
+      "dataNascimento": "1940-10-23",
+      "email": "pele@gmail.com",
+      "telefoneUm": 41991236548,
+      "telefoneDois": 11259885457,
+      "logradouro": {
+        "codigo": 2,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Dom Pedro II",
+      "numero": 72,
+      "bairro": "Batel",
+      "complemento": "Apto. 15",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": 82640200,
+      "conta": {
+        "idConta": 6,
+        "tipoConta": "Pessoa Física",
+        "cpf": 23651948718,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1940-10-23",
+        "atividadeEconomica": null,
+        "profissao": "Jogador de Futebol"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": 6,
+          "dataAdesao": "2022-01-15",
+          "valorConta": 0.0,
+          "valorCashback": 0
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": 6,
+          "nomeTitular": "Edson Arantes do Nascimento",
+          "numeroCartao": 9854965874125632,
+          "bandeiraCartao": "ELO",
+          "dataValidade": "2022-12-10",
+          "cpfCnpjTitular": 23651948718
+        }
+      }
+    }
+}

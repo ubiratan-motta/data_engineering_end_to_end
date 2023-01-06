@@ -1,0 +1,21 @@
+{
+  "entrega":
+  {
+    "idEntrega": 2,
+    "codigoRastreio": "A100002",
+    "statusEntrega": "Separado pelo fornecedor",
+    "prazoEntrega": "2022-10-31",
+    "valorFrete": 11.90,
+    "empresaFrete": {
+      "idEmpresaFrete": 2,
+      "razaoSocial": "Expresso São Miguel Ltda",
+      "nomeFantasia": "Expresso São Miguel",
+      "cnpj": 10428307000430,
+      "responsavel": "Miguel da Silva",
+      "emailUm": "frete@saomiguel.com",
+      "emailois": "silvamiguel@saomiguel.com",
+      "telefoneUm": 21995245698,
+      "telfoneDois": 21998456789
+    }
+  }
+}

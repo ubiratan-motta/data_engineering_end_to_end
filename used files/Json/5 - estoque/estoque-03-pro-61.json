@@ -1,0 +1,24 @@
+{
+  "estoque":
+  {
+    "idEstoque": 3,
+    "local": "São Paulo",
+    "responsavel": "Jose dos Flores",
+    "emailUm": "cd-saopaulo@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 11985478596,
+    "telefoneDois": 11985478590,
+    "produtosEstoque":
+    {
+      "idProduto": 61,
+      "nome": "Smart TV 50” Crystal 4K Samsung",
+      "categoria": "TVs",
+      "descricao": "Smart TV 50” Crystal 4K Samsung 50AU7700 - Wi-Fi Bluetooth HDR Alexa Built in 3 HDMI 1 USB",
+      "valorUnitario": 2516.55,
+      "quantidade": 200,
+      "possuiGarantia": true,
+      "avaliacao": 4.8,
+      "dimensoes": "50''"
+    }
+  }
+}

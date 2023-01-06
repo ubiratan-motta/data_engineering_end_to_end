@@ -1,0 +1,23 @@
+{
+  "estoque":
+  {
+    "idEstoque": 2,
+    "local": "Rio de Janeiro",
+    "responsavel": "João da Silva",
+    "emailUm": "cd-riodejaneiro@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 21998548962,
+    "telefoneDois": 21998548960,
+    "produtosEstoque": {
+      "idProduto": 40,
+      "nome": "Notebook Samsung Book",
+      "categoria": "Informática",
+      "descricao": "Notebook Samsung Book Intel Core i7 8GB 256GB SSD - 15,6” Full HD Windows 11 NP550XDA-KU1BR",
+      "valorUnitario": 3959.10,
+      "quantidade": 150,
+      "possuiGarantia": true,
+      "avaliacao": 4.7,
+      "dimensoes": null
+    }
+  }
+}

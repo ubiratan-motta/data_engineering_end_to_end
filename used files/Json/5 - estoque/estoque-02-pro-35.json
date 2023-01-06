@@ -1,0 +1,23 @@
+{
+  "estoque":
+  {
+    "idEstoque": 2,
+    "local": "Rio de Janeiro",
+    "responsavel": "João da Silva",
+    "emailUm": "cd-riodejaneiro@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 21998548962,
+    "telefoneDois": 21998548960,
+    "produtosEstoque": {
+      "idProduto": 35,
+      "nome": "Jogo De Ferramentas Manuais",
+      "categoria": "Ferramentas",
+      "descricao": "Jogo De Ferramentas Manuais 189 Peças Fasterr FST007 Profissional",
+      "valorUnitario": 167.31,
+      "quantidade": 90,
+      "possuiGarantia": false,
+      "avaliacao": 4.3,
+      "dimensoes": null
+    }
+  }
+}

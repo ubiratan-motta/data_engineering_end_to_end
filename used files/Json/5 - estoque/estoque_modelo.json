@@ -1,0 +1,24 @@
+{
+  "estoque":
+  {
+    "idEstoque": 0,
+    "local": "string",
+    "responsavel": "string",
+    "emailUm": "string",
+    "emailDois": "string",
+    "telefoneUm": "string",
+    "telefoneDois": "string",
+    "produtosEstoque":
+    {
+      "idProduto": 0,
+      "nome": "string",
+      "categoria": "string",
+      "descricao": "string",
+      "valorUnitario": "string",
+      "quantidade": 0,
+      "possuiGarantia": true,
+      "avaliacao": 0,
+      "dimensoes": null
+    }
+  }
+}

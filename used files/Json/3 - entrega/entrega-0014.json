@@ -1,0 +1,21 @@
+{
+  "entrega":
+  {
+    "idEntrega": 14,
+    "codigoRastreio": "D400002",
+    "statusEntrega": "Entregue",
+    "prazoEntrega": "2022-10-07",
+    "valorFrete": 22.90,
+    "empresaFrete": {
+      "idEmpresaFrete": 3,
+      "razaoSocial": "Fedex Brasil Logistica e Transporte LTDA",
+      "nomeFantasia": "Fedex",
+      "cnpj": 10970887000285,
+      "responsavel": "Frederico Lima",
+      "emailUm": "frete@fedex.com",
+      "emailois": "frederico@fedex.com",
+      "telefoneUm": 41995002315,
+      "telfoneDois": 41995462365
+    }
+  }
+}

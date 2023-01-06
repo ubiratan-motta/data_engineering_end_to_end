@@ -1,0 +1,22 @@
+{
+  "entrega":
+  {
+    "idEntrega": 0,
+    "codigoRastreio": 0,
+    "statusEntrega": "string",
+    "prazoEntrega": "string",
+    "valorFrete": 0,
+    "empresaFrete": [{
+      "idEmpresaFrete": 0,
+      "razaoSocial": "string",
+      "nomeFantasia": "string",
+      "cnpj": 0,
+      "responsavel": "string",
+      "emailUm": "string",
+      "emailois": "string",
+      "telefoneUm": 0,
+      "telfoneDois": 0
+      }
+    ]
+  }
+}

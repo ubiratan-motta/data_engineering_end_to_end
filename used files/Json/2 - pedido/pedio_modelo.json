@@ -1,0 +1,52 @@
+{
+  "pedido":
+  {
+    "idPedido": 0,
+    "statusPedido": "string",
+    "descricao": "string",
+    "dataPedido": "1999-12-31",
+    "produtoPedido": [
+      {
+        "idProduto": 0,
+        "nome": "string",
+        "categoria": "string",
+        "descricao": "string",
+        "valorUnitario": "string",
+        "quantidade": 0,
+        "possuiGarantia": true,
+        "avaliacao": 0,
+        "dimensaoes": "1x2x3"
+      }
+    ]
+  },
+  "cliente":
+  {
+    "idCliente": 0,
+    "nomeCompleto": "string",
+    "cpf": 0,
+    "dataNascimento": "1999-12-31",
+    "email": "string",
+    "telefoneUm": 0,
+    "telefoneDois": 0,
+    "logradouro": {
+        "codigo": 0,
+        "descricao": null,
+        "descricaoReduzida": null
+    },
+    "endereco": "string",
+    "numero": 0,
+    "bairro": "string",
+    "complemento": "string",
+    "cidade": "string",
+    "estado": "string",
+    "cep": 0
+  },
+  "entrega":
+  {
+    "idEntrega": 0,
+    "codigoRastreio": 0,
+    "statusEntrega": "string",
+    "prazoEntrega": "string",
+    "valorFrete": 0
+  }
+}

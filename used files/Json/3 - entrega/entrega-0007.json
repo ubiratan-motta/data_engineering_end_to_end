@@ -1,0 +1,21 @@
+{
+  "entrega":
+  {
+    "idEntrega": 7,
+    "codigoRastreio": "B200003",
+    "statusEntrega": "A caminho da sua cidade",
+    "prazoEntrega": "2022-10-21",
+    "valorFrete": 0.0,
+    "empresaFrete": {
+      "idEmpresaFrete": 1,
+      "razaoSocial": "Brasspress Transportes Urgentes Ltda",
+      "nomeFantasia": "Brasspress Transportes Urgentes",
+      "cnpj": 48740351000165,
+      "responsavel": "Daniel Costa",
+      "emailUm": "frete@brasspress.com",
+      "emailois": "costadaniel@brasspress.com",
+      "telefoneUm": 11998569847,
+      "telfoneDois": 11902541159
+    }
+  }
+}

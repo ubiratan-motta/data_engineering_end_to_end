@@ -1,0 +1,22 @@
+{
+  "estoque": {
+    "idEstoque": 1,
+    "local": "Curitiba",
+    "responsavel": "Pedro Souza",
+    "emailUm": "d-curitiba@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 41998569632,
+    "telefoneDois": 41998569630,
+    "produtosEstoque": {
+      "idProduto": 21,
+      "nome": "Torneira para Cozinha Gourmet Dupla de Mesa",
+      "categoria": "Casa e Contrução",
+      "descricao": "Torneira para Cozinha Gourmet Dupla de Mesa - com Monocomando Cromada Nell AM-2679",
+      "valorUnitario": 399.99,
+      "quantidade": 10,
+      "possuiGarantia": true,
+      "avaliacao": 4.7,
+      "dimensoes": null
+    }
+  }
+}

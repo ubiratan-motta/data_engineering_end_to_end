@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 1,
+      "nomeCompleto": "Ubiratan Jesus da Motta Filho",
+      "cpf": 12345678912,
+      "dataNascimento": "1995-08-21",
+      "email": "mottaubiratan@gmail.com",
+      "telefoneUm": 41997569604,
+      "telefoneDois": null,
+      "logradouro": {
+        "codigo": 33,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Vereador Yrlan Cavet",
+      "numero": 1000,
+      "bairro": "Alto Boqueirão",
+      "complemento": "casa 18",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": 81720340,
+      "conta": {
+        "idConta": 1,
+        "tipoConta": "Pessoa Física",
+        "cpf": 12345678912,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1995-08-21",
+        "atividadeEconomica": null,
+        "profissao": "Engenheiro de Dados"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": 1,
+          "dataAdesao": "2021-08-13",
+          "valorConta": 0,
+          "valorCashback": 0
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": 1,
+          "nomeTitular": "Ubiratan Jesus da Motta Filho",
+          "numeroCartao": 1234567891234567,
+          "bandeiraCartao": "VISA",
+          "dataValidade": "2026-10-01",
+          "cpfCnpjTitular": 12345678912
+        }
+      }
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "estoque":
+  {
+    "idEstoque": 2,
+    "local": "Rio de Janeiro",
+    "responsavel": "João da Silva",
+    "emailUm": "cd-riodejaneiro@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 21998548962,
+    "telefoneDois": 21998548960,
+    "produtosEstoque": {
+      "idProduto": 39,
+      "nome": "Xbox Series X",
+      "categoria": "Games",
+      "descricao": "Xbox Series X 2020 Nova Geração 1TB SSD - 1 Controle Preto Microsoft",
+      "valorUnitario": 4084.91,
+      "quantidade": 200,
+      "possuiGarantia": true,
+      "avaliacao": 5.0,
+      "dimensoes": null
+    }
+  }
+}

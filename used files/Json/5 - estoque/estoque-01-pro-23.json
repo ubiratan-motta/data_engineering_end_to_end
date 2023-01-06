@@ -1,0 +1,22 @@
+{
+  "estoque": {
+    "idEstoque": 1,
+    "local": "Curitiba",
+    "responsavel": "Pedro Souza",
+    "emailUm": "d-curitiba@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 41998569632,
+    "telefoneDois": 41998569630,
+    "produtosEstoque": {
+      "idProduto": 23,
+      "nome": "iPhone 11",
+      "categoria": "Celular e Smartphone",
+      "descricao": "iPhone 11 Apple 64GB Branco 6,1” 12MP iOS",
+      "valorUnitario": 3254.07,
+      "quantidade": 20,
+      "possuiGarantia": true,
+      "avaliacao": 4.9,
+      "dimensoes": null
+    }
+  }
+}

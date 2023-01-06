@@ -1,0 +1,24 @@
+{
+  "estoque":
+  {
+    "idEstoque": 3,
+    "local": "São Paulo",
+    "responsavel": "Jose dos Flores",
+    "emailUm": "cd-saopaulo@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 11985478596,
+    "telefoneDois": 11985478590,
+    "produtosEstoque":
+    {
+      "idProduto": 54,
+      "nome": "Calculadora Financeira HP 12C",
+      "categoria": "Papelaria",
+      "descricao": "Calculadora Financeira HP 12C Gold, 120 Funções, Visor LCD, RPN e ALG",
+      "valorUnitario": 359.99,
+      "quantidade": 200,
+      "possuiGarantia": true,
+      "avaliacao": 4.7,
+      "dimensoes": null
+    }
+  }
+}

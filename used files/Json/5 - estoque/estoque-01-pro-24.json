@@ -1,0 +1,22 @@
+{
+  "estoque": {
+    "idEstoque": 1,
+    "local": "Curitiba",
+    "responsavel": "Pedro Souza",
+    "emailUm": "d-curitiba@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 41998569632,
+    "telefoneDois": 41998569630,
+    "produtosEstoque": {
+      "idProduto": 24,
+      "nome": "Motorola Moto g31",
+      "categoria": "Celular e Smartphone",
+      "descricao": "Motorola Moto g31 128GB Azul 4G - Octa-Core 4GB RAM 6,4” Câm. Tripla + Selfie 13MP",
+      "valorUnitario": "1151.10",
+      "quantidade": 5,
+      "possuiGarantia": true,
+      "avaliacao": 4.8,
+      "dimensoes": null
+    }
+  }
+}

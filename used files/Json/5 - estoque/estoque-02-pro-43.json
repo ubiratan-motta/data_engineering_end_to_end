@@ -1,0 +1,23 @@
+{
+  "estoque":
+  {
+    "idEstoque": 2,
+    "local": "Rio de Janeiro",
+    "responsavel": "João da Silva",
+    "emailUm": "cd-riodejaneiro@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 21998548962,
+    "telefoneDois": 21998548960,
+    "produtosEstoque": {
+      "idProduto": 43,
+      "nome": "PRESENÇA DE ANTÍGONA",
+      "categoria": "Livros",
+      "descricao": "Livro - PRESENÇA DE ANTÍGONA\n",
+      "valorUnitario": 26.80,
+      "quantidade": 137,
+      "possuiGarantia": false,
+      "avaliacao": 0.0,
+      "dimensoes": null
+    }
+  }
+}

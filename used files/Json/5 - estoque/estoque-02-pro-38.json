@@ -1,0 +1,23 @@
+{
+  "estoque":
+  {
+    "idEstoque": 2,
+    "local": "Rio de Janeiro",
+    "responsavel": "João da Silva",
+    "emailUm": "cd-riodejaneiro@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 21998548962,
+    "telefoneDois": 21998548960,
+    "produtosEstoque": {
+      "idProduto": 38,
+      "nome": "Nintendo Switch",
+      "categoria": "Games",
+      "descricao": "Nintendo Switch OLED 64GB Branco 2 Controles - Joy-Con 7.0”",
+      "valorUnitario": 2564.05,
+      "quantidade": 130,
+      "possuiGarantia": true,
+      "avaliacao": 4.9,
+      "dimensoes": null
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "estoque":
+  {
+    "idEstoque": 2,
+    "local": "Rio de Janeiro",
+    "responsavel": "João da Silva",
+    "emailUm": "cd-riodejaneiro@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 21998548962,
+    "telefoneDois": 21998548960,
+    "produtosEstoque": {
+      "idProduto": 44,
+      "nome": "Álbum Copa do Mundo",
+      "categoria": "Livros",
+      "descricao": "Álbum Copa do Mundo Box Exclusivo Capa Dura - Prata+ 50 Pacotes de Figurinhas Copa do Mundo 2022",
+      "valorUnitario": 244.90,
+      "quantidade": 183,
+      "possuiGarantia": false,
+      "avaliacao": 4.4,
+      "dimensoes": null
+    }
+  }
+}

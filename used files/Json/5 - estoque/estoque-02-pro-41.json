@@ -1,0 +1,23 @@
+{
+  "estoque":
+  {
+    "idEstoque": 2,
+    "local": "Rio de Janeiro",
+    "responsavel": "João da Silva",
+    "emailUm": "cd-riodejaneiro@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 21998548962,
+    "telefoneDois": 21998548960,
+    "produtosEstoque": {
+      "idProduto": 41,
+      "nome": "Impressora Multifuncional Epson",
+      "categoria": "Informática",
+      "descricao": "Impressora Multifuncional Epson Ecotank L4260 - Tanque de Tinta Colorida USB Wi-Fi",
+      "valorUnitario": 1619.10,
+      "quantidade": 199,
+      "possuiGarantia": true,
+      "avaliacao": 4.9,
+      "dimensoes": null
+    }
+  }
+}

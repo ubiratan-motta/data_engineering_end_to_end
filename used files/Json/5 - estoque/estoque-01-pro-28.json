@@ -1,0 +1,22 @@
+{
+  "estoque": {
+    "idEstoque": 1,
+    "local": "Curitiba",
+    "responsavel": "Pedro Souza",
+    "emailUm": "d-curitiba@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 41998569632,
+    "telefoneDois": 41998569630,
+    "produtosEstoque": {
+      "idProduto": 28,
+      "nome": "Geladeira/Refrigerador Brastemp",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Geladeira/Refrigerador Brastemp Frost Free Duplex - Branca 375L BRM44 HBANA",
+      "valorUnitario": 2849.05,
+      "quantidade": 20,
+      "possuiGarantia": true,
+      "avaliacao": 4.8,
+      "dimensoes": null
+    }
+  }
+}

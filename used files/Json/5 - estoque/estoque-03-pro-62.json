@@ -1,0 +1,24 @@
+{
+  "estoque":
+  {
+    "idEstoque": 3,
+    "local": "São Paulo",
+    "responsavel": "Jose dos Flores",
+    "emailUm": "cd-saopaulo@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 11985478596,
+    "telefoneDois": 11985478590,
+    "produtosEstoque":
+    {
+      "idProduto": 62,
+      "nome": "Smart TV 50” 4K UHD D-LED",
+      "categoria": "TVs",
+      "descricao": "Smart TV 50” 4K UHD D-LED Semp RK8500 - VA Wi-Fi 4 HDMI 1 USB",
+      "valorUnitario": 2299.00,
+      "quantidade": 200,
+      "possuiGarantia": true,
+      "avaliacao": 4.8,
+      "dimensoes": "50''"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "entrega":
+  {
+    "idEntrega": 15,
+    "codigoRastreio": "D400003",
+    "statusEntrega": "Entregue",
+    "prazoEntrega": "2022-10-05",
+    "valorFrete": 25.40,
+    "empresaFrete": {
+      "idEmpresaFrete": 1,
+      "razaoSocial": "Brasspress Transportes Urgentes Ltda",
+      "nomeFantasia": "Brasspress Transportes Urgentes",
+      "cnpj": 48740351000165,
+      "responsavel": "Daniel Costa",
+      "emailUm": "frete@brasspress.com",
+      "emailois": "costadaniel@brasspress.com",
+      "telefoneUm": 11998569847,
+      "telfoneDois": 11902541159
+    }
+  }
+}

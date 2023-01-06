@@ -1,0 +1,24 @@
+{
+  "estoque":
+  {
+    "idEstoque": 3,
+    "local": "São Paulo",
+    "responsavel": "Jose dos Flores",
+    "emailUm": "cd-saopaulo@estoque.com",
+    "emailDois": null,
+    "telefoneUm": 11985478596,
+    "telefoneDois": 11985478590,
+    "produtosEstoque":
+    {
+      "idProduto": 59,
+      "nome": "Relógio Champion Feminino",
+      "categoria": "Relógios",
+      "descricao": "Relógio Champion Feminino Elegance Dourado CN27652W + Kit Colar e Brincos",
+      "valorUnitario": 239.90,
+      "quantidade": 200,
+      "possuiGarantia": true,
+      "avaliacao": 4.7,
+      "dimensoes": null
+    }
+  }
+}
