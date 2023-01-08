@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 24,
+      "nomeCompleto": "Ubiratan Jesus da Motta",
+      "cpf": 32566598748,
+      "dataNascimento": "1970-04-10",
+      "email": "ubiratanmotta11@gmail.com",
+      "telefoneUm": 41998745685,
+      "telefoneDois": null,
+      "logradouro": {
+        "codigo": 33,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Uganda",
+      "numero": 622,
+      "bairro": "Santa Cândida",
+      "complemento": null,
+      "cidade": "Curitiba ",
+      "estado": "PR",
+      "cep": "82800150",
+      "conta": {
+        "idConta": 24,
+        "tipoConta": "Pessoa Física",
+        "cpf": 32566598748,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1970-04-10",
+        "atividadeEconomica": null,
+        "profissao": "Tenente do Exercito Brasileiro"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": null,
+          "dataAdesao": null,
+          "valorConta": null,
+          "valorCashback": null
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": null,
+          "nomeTitular": null,
+          "numeroCartao": null,
+          "bandeiraCartao": null,
+          "dataValidade": null,
+          "cpfCnpjTitular": null
+        }
+      }
+    }
+}

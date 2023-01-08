@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 10,
+      "nomeCompleto": "Carolina Maria de Jesus",
+      "cpf": 33211566487,
+      "dataNascimento": "1914-03-14",
+      "email": "carolinajesus@gmail.com",
+      "telefoneUm": 41985748623,
+      "telefoneDois": 41995636541,
+      "logradouro": {
+        "codigo": 33,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "machado de assis",
+      "numero": 1313,
+      "bairro": "Higienópolis",
+      "complemento": null,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "05723340",
+      "conta": {
+        "idConta": 10,
+        "tipoConta": "Pessoa Física",
+        "cpf": 33211566487,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1914-03-14",
+        "atividadeEconomica": null,
+        "profissao": "Escritora"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": 10,
+          "dataAdesao": "2022-05-20",
+          "valorConta": 604.59,
+          "valorCashback": 0.0
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": 10,
+          "nomeTitular": "Carolina Maria de Jesus",
+          "numeroCartao": 1354897658451354,
+          "bandeiraCartao": "AMERICAN EXPRESS",
+          "dataValidade": "2028-12-16",
+          "cpfCnpjTitular": 33211566487
+        }
+      }
+    }
+}

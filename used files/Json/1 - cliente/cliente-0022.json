@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 22,
+      "nomeCompleto": "Gustavo Pereira Marques",
+      "cpf": 13345678941,
+      "dataNascimento": "1994-06-04",
+      "email": "djonga@gmail.com",
+      "telefoneUm": 41995265148,
+      "telefoneDois": null,
+      "logradouro": {
+        "codigo": 3,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Maestro Carlos Frank",
+      "numero": 598,
+      "bairro": "Morumbi",
+      "complemento": null,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "03649010",
+      "conta": {
+        "idConta": 22,
+        "tipoConta": "Pessoa Física",
+        "cpf": 13345678941,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1994-06-04",
+        "atividadeEconomica": null,
+        "profissao": "Rapper e Compositor"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": null,
+          "dataAdesao": null,
+          "valorConta": null,
+          "valorCashback": null
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": null,
+          "nomeTitular": null,
+          "numeroCartao": null,
+          "bandeiraCartao": null,
+          "dataValidade": null,
+          "cpfCnpjTitular": null
+        }
+      }
+    }
+}

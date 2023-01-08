@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 14,
+      "nomeCompleto": "Conceição Evaristo",
+      "cpf": 32564198765,
+      "dataNascimento": "1946-11-29",
+      "email": "evaristoconceicao@gmail.com",
+      "telefoneUm": 41900522145,
+      "telefoneDois": null,
+      "logradouro": {
+        "codigo": 33,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Vereador João",
+      "numero": 101,
+      "bairro": "São Sebastiao",
+      "complemento": null,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "04156030",
+      "conta": {
+        "idConta": 14,
+        "tipoConta": "Pessoa Física",
+        "cpf": 32564198765,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1946-11-29",
+        "atividadeEconomica": null,
+        "profissao": "Escritora"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": null,
+          "dataAdesao": null,
+          "valorConta": null,
+          "valorCashback": null
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": null,
+          "nomeTitular": null,
+          "numeroCartao": null,
+          "bandeiraCartao": null,
+          "dataValidade": null,
+          "cpfCnpjTitular": null
+        }
+      }
+    }
+}

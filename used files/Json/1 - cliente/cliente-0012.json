@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 12,
+      "nomeCompleto": "Elza Soares",
+      "cpf": 12365897469,
+      "dataNascimento": "1930-06-23",
+      "email": "elzasoares@gmail.com",
+      "telefoneUm": 41998554113,
+      "telefoneDois": null,
+      "logradouro": {
+        "codigo": 2,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Presidente Farias",
+      "numero": 3131,
+      "bairro": "Barra da Tijuca",
+      "complemento": "apto 808",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22713573",
+      "conta": {
+        "idConta": 12,
+        "tipoConta": "Pessoa Física",
+        "cpf": 12365897469,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1930-06-23",
+        "atividadeEconomica": null,
+        "profissao": "Cantora"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": 12,
+          "dataAdesao": "2022-07-18",
+          "valorConta": 259.14,
+          "valorCashback": 0.0
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": null,
+          "nomeTitular": null,
+          "numeroCartao": null,
+          "bandeiraCartao": null,
+          "dataValidade": null,
+          "cpfCnpjTitular": null
+        }
+      }
+    }
+}

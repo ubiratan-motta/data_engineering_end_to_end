@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 9,
+      "nomeCompleto": "Hilária Batista de Almeida",
+      "cpf": 12398765445,
+      "dataNascimento": "1854-01-13",
+      "email": "hilariaalmeida@gmail.com",
+      "telefoneUm": 41985436587,
+      "telefoneDois": 21885458748,
+      "logradouro": {
+        "codigo": 33,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "José Bonifácio",
+      "numero": 13,
+      "bairro": "Centro",
+      "complemento": "praça",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": 82640620,
+      "conta": {
+        "idConta": 9,
+        "tipoConta": "Pessoa Física",
+        "cpf": 12398765445,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1854-01-13",
+        "atividadeEconomica": null,
+        "profissao": "Sambista e Mãe de Santo"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": 9,
+          "dataAdesao": "2022-04-10",
+          "valorConta": 72.81,
+          "valorCashback": 0.0
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": 9,
+          "nomeTitular": "Hilária Batista de Almeida",
+          "numeroCartao": 1565435748696854,
+          "bandeiraCartao": "HIPERCARD",
+          "dataValidade": "2030-09-20",
+          "cpfCnpjTitular": 12398765445
+        }
+      }
+    }
+}

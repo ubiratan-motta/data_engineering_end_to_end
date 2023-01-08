@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 8,
+      "nomeCompleto": "Joaquim Maria Machado de Assis",
+      "cpf": 11133355598,
+      "dataNascimento": "1839-06-21",
+      "email": "machadoassis@gmail.com",
+      "telefoneUm": 41996254159,
+      "telefoneDois": null,
+      "logradouro": {
+        "codigo": 33,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Voluntários da Pátria",
+      "numero": 865,
+      "bairro": "Centro",
+      "complemento": "Apto. 20",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": 81240390,
+      "conta": {
+        "idConta": 8,
+        "tipoConta": "Pessoa Física",
+        "cpf": 11133355598,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1839-06-21",
+        "atividadeEconomica": null,
+        "profissao": "Escritor"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": 8,
+          "dataAdesao": "2022-03-05",
+          "valorConta": 5000.0,
+          "valorCashback": 712.00
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": 8,
+          "nomeTitular": "Joaquim Maria Machado de Assis",
+          "numeroCartao": 1345649846315489,
+          "bandeiraCartao": "ELO",
+          "dataValidade": "2025-06-15",
+          "cpfCnpjTitular": 11133355598
+        }
+      }
+    }
+}

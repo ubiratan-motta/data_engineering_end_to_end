@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 11,
+      "nomeCompleto": "Sebastião Bernardes de Souza Prata",
+      "cpf": 44266598791,
+      "dataNascimento": "1915-10-18",
+      "email": "grandeotelo@gmail.com",
+      "telefoneUm": 41987987456,
+      "telefoneDois": null,
+      "logradouro": {
+        "codigo": 33,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "São João Batista",
+      "numero": 130,
+      "bairro": "Leblon",
+      "complemento": null,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20241220",
+      "conta": {
+        "idConta": 11,
+        "tipoConta": "Pessoa Física",
+        "cpf": 44266598791,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1915-10-18",
+        "atividadeEconomica": null,
+        "profissao": "Ator"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": 11,
+          "dataAdesao": "2022-06-07",
+          "valorConta": 231.09,
+          "valorCashback": 0.0
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": 11,
+          "nomeTitular": "Sebastião Bernardes de Souza Prata",
+          "numeroCartao": 1653548794161268,
+          "bandeiraCartao": "MAESTRO",
+          "dataValidade": "2026-10-18",
+          "cpfCnpjTitular": 44266598791
+        }
+      }
+    }
+}

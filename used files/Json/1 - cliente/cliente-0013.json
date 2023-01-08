@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 13,
+      "nomeCompleto": "Gilberto Gil",
+      "cpf": 15648975631,
+      "dataNascimento": "1942-06-26",
+      "email": "gilbertogil@gmail.com",
+      "telefoneUm": 41912365498,
+      "telefoneDois": null,
+      "logradouro": {
+        "codigo": 2,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Linha verde",
+      "numero": 654,
+      "bairro": "Jardins",
+      "complemento": null,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "01218011",
+      "conta": {
+        "idConta": 13,
+        "tipoConta": "Pessoa Física",
+        "cpf": 15648975631,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1942-06-26",
+        "atividadeEconomica": null,
+        "profissao": "Cantor"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": 13,
+          "dataAdesao": "2022-08-21",
+          "valorConta": 0.0,
+          "valorCashback": 29.69
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": null,
+          "nomeTitular": null,
+          "numeroCartao": null,
+          "bandeiraCartao": null,
+          "dataValidade": null,
+          "cpfCnpjTitular": null
+        }
+      }
+    }
+}

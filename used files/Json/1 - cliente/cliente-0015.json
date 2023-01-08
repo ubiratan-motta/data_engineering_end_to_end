@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 15,
+      "nomeCompleto": "Milton Santos",
+      "cpf": 35798641852,
+      "dataNascimento": "1926-05-03",
+      "email": "miltonsantos@gmail.com",
+      "telefoneUm": 41990236549,
+      "telefoneDois": 41995559698,
+      "logradouro": {
+        "codigo": 33,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Desembargador Motta",
+      "numero": 985,
+      "bairro": "Capelinha",
+      "complemento": null,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "04775100",
+      "conta": {
+        "idConta": 15,
+        "tipoConta": "Pessoa Física",
+        "cpf": 35798641852,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1926-05-03",
+        "atividadeEconomica": null,
+        "profissao": "Geógrafo"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": null,
+          "dataAdesao": null,
+          "valorConta": null,
+          "valorCashback": null
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": null,
+          "nomeTitular": null,
+          "numeroCartao": null,
+          "bandeiraCartao": null,
+          "dataValidade": null,
+          "cpfCnpjTitular": null
+        }
+      }
+    }
+}

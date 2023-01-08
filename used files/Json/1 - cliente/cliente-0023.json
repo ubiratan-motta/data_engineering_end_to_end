@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 23,
+      "nomeCompleto": "Aparecida Suely Barboza",
+      "cpf": 13564987594,
+      "dataNascimento": "1971-12-28",
+      "email": "negrasue@gmail.com",
+      "telefoneUm": 41996325874,
+      "telefoneDois": null,
+      "logradouro": {
+        "codigo": 33,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Irmãos Rebouças",
+      "numero": 78,
+      "bairro": "Moema",
+      "complemento": null,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "04896240",
+      "conta": {
+        "idConta": 23,
+        "tipoConta": "Pessoa Física",
+        "cpf": 13564987594,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1971-12-28",
+        "atividadeEconomica": null,
+        "profissao": "Assesora Juridica"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": null,
+          "dataAdesao": null,
+          "valorConta": null,
+          "valorCashback": null
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": null,
+          "nomeTitular": null,
+          "numeroCartao": null,
+          "bandeiraCartao": null,
+          "dataValidade": null,
+          "cpfCnpjTitular": null
+        }
+      }
+    }
+}

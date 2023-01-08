@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 25,
+      "nomeCompleto": "Edilson Ramos dos Santos",
+      "cpf": 52487965497,
+      "dataNascimento": "1972-11-12",
+      "email": "ersantoss@gmail.com",
+      "telefoneUm": 41996254478,
+      "telefoneDois": 41999658955,
+      "logradouro": {
+        "codigo": 13,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Angola",
+      "numero": 622,
+      "bairro": "Boa Vista",
+      "complemento": null,
+      "cidade": "Curitiba ",
+      "estado": "PR",
+      "cep": "81530245",
+      "conta": {
+        "idConta": 25,
+        "tipoConta": "Pessoa Física",
+        "cpf": 52487965497,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1972-11-12",
+        "atividadeEconomica": null,
+        "profissao": "Funcionário Publico"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": null,
+          "dataAdesao": null,
+          "valorConta": null,
+          "valorCashback": null
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": null,
+          "nomeTitular": null,
+          "numeroCartao": null,
+          "bandeiraCartao": null,
+          "dataValidade": null,
+          "cpfCnpjTitular": null
+        }
+      }
+    }
+}

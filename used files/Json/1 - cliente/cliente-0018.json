@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 18,
+      "nomeCompleto": "André Rebouças",
+      "cpf": 65471283945,
+      "dataNascimento": "1838-01-13",
+      "email": "andrereboucas@gmail.com",
+      "telefoneUm": 41963254987,
+      "telefoneDois": null,
+      "logradouro": {
+        "codigo": 2,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Guilherme Weigart",
+      "numero": 333,
+      "bairro": "Jardim Botânico",
+      "complemento": null,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "21210300",
+      "conta": {
+        "idConta": 18,
+        "tipoConta": "Pessoa Física",
+        "cpf": 65471283945,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1838-01-13",
+        "atividadeEconomica": null,
+        "profissao": "Engenheiro"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": null,
+          "dataAdesao": null,
+          "valorConta": null,
+          "valorCashback": null
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": null,
+          "nomeTitular": null,
+          "numeroCartao": null,
+          "bandeiraCartao": null,
+          "dataValidade": null,
+          "cpfCnpjTitular": null
+        }
+      }
+    }
+}

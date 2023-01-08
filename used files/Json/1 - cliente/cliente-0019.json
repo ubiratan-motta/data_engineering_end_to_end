@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 19,
+      "nomeCompleto": "João da Cruz e Sousa",
+      "cpf": 45682719346,
+      "dataNascimento": "1861-11-24",
+      "email": "joaosouza@gmail.com",
+      "telefoneUm": 41925415698,
+      "telefoneDois": null,
+      "logradouro": {
+        "codigo": 13,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Dona Maria",
+      "numero": 569,
+      "bairro": "Ingleses",
+      "complemento": null,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "88052655",
+      "conta": {
+        "idConta": 19,
+        "tipoConta": "Pessoa Física",
+        "cpf": 45682719346,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1861-11-24",
+        "atividadeEconomica": null,
+        "profissao": "Poeta"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": null,
+          "dataAdesao": null,
+          "valorConta": null,
+          "valorCashback": null
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": null,
+          "nomeTitular": null,
+          "numeroCartao": null,
+          "bandeiraCartao": null,
+          "dataValidade": null,
+          "cpfCnpjTitular": null
+        }
+      }
+    }
+}

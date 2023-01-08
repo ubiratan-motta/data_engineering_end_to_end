@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 17,
+      "nomeCompleto": "Bezerra da Silva",
+      "cpf": 12396314785,
+      "dataNascimento": "1927-02-23",
+      "email": "bezerrasilva@gmail.com",
+      "telefoneUm": 41991025468,
+      "telefoneDois": null,
+      "logradouro": {
+        "codigo": 4,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "João Escussiato",
+      "numero": 1594,
+      "bairro": "Gávea",
+      "complemento": "Sobrado",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "21616040",
+      "conta": {
+        "idConta": 17,
+        "tipoConta": "Pessoa Física",
+        "cpf": 12396314785,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1927-02-23",
+        "atividadeEconomica": null,
+        "profissao": "Cantor e Compositor"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": null,
+          "dataAdesao": null,
+          "valorConta": null,
+          "valorCashback": null
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": null,
+          "nomeTitular": null,
+          "numeroCartao": null,
+          "bandeiraCartao": null,
+          "dataValidade": null,
+          "cpfCnpjTitular": null
+        }
+      }
+    }
+}

@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 20,
+      "nomeCompleto": "Benedita da Silva",
+      "cpf": 32654897139,
+      "dataNascimento": "1942-04-26",
+      "email": "beneditasilva@gmail.com",
+      "telefoneUm": 41987458963,
+      "telefoneDois": 11998569951,
+      "logradouro": {
+        "codigo": 13,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Maria Bonita",
+      "numero": 485,
+      "bairro": "Jurerê",
+      "complemento": null,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "88032320",
+      "conta": {
+        "idConta": 20,
+        "tipoConta": "Pessoa Física",
+        "cpf": 32654897139,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1942-04-26",
+        "atividadeEconomica": null,
+        "profissao": "Deputada Federal"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": null,
+          "dataAdesao": null,
+          "valorConta": null,
+          "valorCashback": null
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": null,
+          "nomeTitular": null,
+          "numeroCartao": null,
+          "bandeiraCartao": null,
+          "dataValidade": null,
+          "cpfCnpjTitular": null
+        }
+      }
+    }
+}

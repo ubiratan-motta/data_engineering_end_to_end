@@ -1,0 +1,53 @@
+{
+  "cliente":
+    {
+      "idCliente": 16,
+      "nomeCompleto": "Alfredo da Rocha Vianna Filho",
+      "cpf": 96385274114,
+      "dataNascimento": "1897-04-23",
+      "email": "rochavianna@gmail.com",
+      "telefoneUm": 41920007849,
+      "telefoneDois": 41336526487,
+      "logradouro": {
+        "codigo": 33,
+        "descricao": null,
+        "descricaoReduzida": null
+      },
+      "endereco": "Tulio Genoval",
+      "numero": 2654,
+      "bairro": "Belvedere",
+      "complemento": null,
+      "cidade": "Florianopolis",
+      "estado": "SC",
+      "cep": "88070730",
+      "conta": {
+        "idConta": 16,
+        "tipoConta": "Pessoa Física",
+        "cpf": 96385274114,
+        "cnpj": null,
+        "fundacao": null,
+        "aniversario": "1897-04-23",
+        "atividadeEconomica": null,
+        "profissao": "Maestro"
+      },
+      "formasPagamento":{
+        "pix": null,
+        "boletoBancario": null,
+        "transferenciaBancaria": null,
+        "carteiraDigital": {
+          "idCarteiraDigital": null,
+          "dataAdesao": null,
+          "valorConta": null,
+          "valorCashback": null
+        },
+        "pagamentoCartao": {
+          "idFormaPagamento": null,
+          "nomeTitular": null,
+          "numeroCartao": null,
+          "bandeiraCartao": null,
+          "dataValidade": null,
+          "cpfCnpjTitular": null
+        }
+      }
+    }
+}
